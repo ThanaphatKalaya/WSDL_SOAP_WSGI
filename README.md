@@ -1,5 +1,6 @@
 # WSDL SOAP WSGI
 prerequired  
+- python2.7.12
 - soaplib >= 2.0  
 - suds  
 - mysql  
